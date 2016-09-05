@@ -1,0 +1,6 @@
+body {
+  background-color:magenta ;
+}
+a:visited {
+    color: red !important;
+}
