@@ -1,7 +1,7 @@
 
 {
-    "manifest_version":2,
-    "name": "Damo Style",
+    "manifest_version":3,
+    "name": "ColorblindChromelinks",
     "content_scripts": [
         {
          "matches": [
@@ -11,5 +11,5 @@
          "run_at" : "document_start"
         }
     ],
-    "version":"0.3"
+    "version":"1"
 }
